@@ -2,8 +2,8 @@
 
 This is my excel_challenge assignment, and here is what I did.
 
-# images
+* Case 1: Excel: Submitted and graded
+* Case 2: VBA: Now Submitted
+* Mini Assignments
 
-
-![Outcome graph](https://github.com/mmarange/excel_challenge/blob/master/Case_1/Outcomes%20Based%20on%20Goal.png?raw=true)
 

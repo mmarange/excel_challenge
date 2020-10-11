@@ -1,9 +1,9 @@
 # Chess Board
 
-## Instructions
+## Methods
 
-* Populate the Chess Board provided with text-based chess pieces. For the top-half of the chess board use Ranges, for the bottom-half of the chess board use Cells.
+* Populated the Chess Board provided with text-based chess pieces. For the top-half of the chess board used Ranges, for the bottom-half of the chess board used Cells.
 
-## Hint
+## Additionals
 
-* Remember that with `Ranges`, it is possible to modify multiple cells at once.
+* Added populating and clear chess board buttons for great user experience
