@@ -8,7 +8,7 @@ This is my VBA Scripting assignment, and here is what I did.
 * Determined the year of each column and used that year as the new heading in each worksheet
 * Formatted to data to currency
 
-### Case 2: 
+### Part 2: 
 * Combined all worksheets in Case 1 into one worksheet called Combined_data
 
 
